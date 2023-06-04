@@ -1,0 +1,61 @@
+.text-center{
+
+    text-align:center;
+  
+  }
+  
+  .container{
+  
+    display: flex;
+  
+      flex-direction: column;
+  
+    jusity-content: center;
+  
+    align-items: center;
+  
+   
+  
+    
+  
+  }
+  
+   
+  
+  .button{
+  
+    margin: 5px 5px;
+  
+    padding: 10px 10px;
+  
+    cursor: pointer;
+  
+    border: 2px solid purple;
+  
+    border-radius: 7px;
+  
+    box-shadow: 2px 2px 5px 2px black;
+  
+    font-weight: bold;
+  
+  }
+  
+  .input1{
+  
+    padding: 2px 2px;
+  
+    margin: 2px 2px;
+  
+    border: 2px solid purple;
+  
+    border-radius: 7px;
+  
+     box-shadow: 2px 2px 5px 2px black;
+  
+  }
+  
+  button:hover{
+  
+    background:#FFC2FF;
+  
+  }
